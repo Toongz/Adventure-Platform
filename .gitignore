@@ -40,7 +40,11 @@ Logs/
 MemoryCaptures/
 UserSettings/
 Assets/Pixel Adventure 1
-
+Asset/Pixel Adventure 2
+Asset/BayatGames
+Asset/Animations
+Asset/Scenes
+Asset/Settings
 .consulo/
 .vs/
 *.csproj
